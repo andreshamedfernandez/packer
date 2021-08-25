@@ -1,0 +1,4 @@
+*/*.iso
+CentOS*
+packer_cache
+packer.exe
